@@ -6,7 +6,7 @@
 
 ![demo](./public/assets/docs/demo.jpg)
 
-✨ [Live Demo](https://Lindsey K.tech)
+✨ [Live Demo](https://mynextjsportfoliov3.netlify.app/)
 
 ### Using the template
 
