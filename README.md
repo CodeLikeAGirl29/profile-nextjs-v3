@@ -4,7 +4,7 @@
 
 > Note: This is a portfolio template, feel free to use it. And star it if you liked :P
 
-![demo](./public/assets/docs/demo.jpg)
+![Lindsey K _ Frontend Developer](https://github.com/CodeLikeAGirl29/profile-nextjs-v3/assets/25946305/7371d8b6-a009-4ef5-af62-1bef39947b8b)
 
 ✨ [Live Demo](https://mynextjsportfoliov3.netlify.app/)
 
@@ -12,7 +12,10 @@
 
 ### Using the Portfolio Template
 
-First, click on the `Use this template` button
+First, clone this repo
+```bash
+git clone https://github.com/CodeLikeAGirl29/profile-nextjs-v3
+```
 
 ![](./public/assets/docs/template.png)
 
@@ -21,12 +24,6 @@ Now choose a name for your repo and create.
 ![](./public/assets/docs/create.png)
 
 ### Running locally
-
-- Clone the repo locally first
-
-```git
-git clone <url>
-```
 
 - Install the dependencies
 
@@ -78,6 +75,7 @@ This portfolio template contain a Spotify Card component [here](./components/Mis
 ![example](https://res.cloudinary.com/ddum5vpp3/image/upload/v1646921441/scrnli_3_10_2022_7-40-13_PM_xkbiam.png)
 
 To configure this, you need to add `env` vars to thr `.env.local` file in the following format:
+
 
 ```txt
 SPOTIFY_CLIENT_ID=<your_client_id_here>
