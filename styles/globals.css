@@ -11,3 +11,7 @@
     @apply bg-zinc-900;
   }
 }
+
+.heading {
+  font-family: 'Lilita One', cursive;
+}
