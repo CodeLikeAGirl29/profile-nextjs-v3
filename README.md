@@ -6,7 +6,7 @@
 
 ![demo](./public/assets/docs/demo.jpg)
 
-✨ [Live Demo](https://Lindsey K.tech)
+✨ [Live Demo](https://mynextjsportfoliov3.netlify.app/)
 
 ### Using the template
 
@@ -94,9 +94,8 @@ And you're good to go!
 
 😊 Lindsey K
 
-- [Portfolio](https://Lindsey K.tech)
-- [Github](https://github.com/kr-Lindsey K)
-- [Twitter](https://twitter.com/imLindsey Klol)
-- [Blog](https://blog.Lindsey K.tech)
+- [Portfolio](https://lindseyk.dev)
+- [Github](https://github.com/codelikeagirl29)
+- [Twitter](https://twitter.com/dev_lindseyk)
 
 ---

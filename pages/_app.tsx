@@ -51,7 +51,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         }}
         twitter={{
           handle: "@dev_lindseyk",
-          site: "@lindseyk.dev",
+          site: "@lindseykdev",
           cardType: "summary_large_image",
         }}
         additionalMetaTags={[
@@ -63,7 +63,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         ]}
       />
       <Head>
-        <link rel="icon" type="image/png" href="/assets/avatar.png" />
+        <link rel="icon" type="image/png" href="/assets/avatar-img.png" />
       </Head>
       <Component {...pageProps} />
     </>

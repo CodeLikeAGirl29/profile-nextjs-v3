@@ -15,14 +15,14 @@ const Contact: NextComponentType = () => {
       <p className="text-3xl font-bold text-white">Get in touch</p>
 
       <div className="my-8 flex flex-row justify-center gap-x-4">
-        <Icon icon={<AiOutlineGithub />} url="https://github.com/kr-Lindsey K" />
+        <Icon icon={<AiOutlineGithub />} url="https://github.com/codelikeagirl29" />
 
         <Icon
           icon={<AiOutlineTwitter />}
-          url="https://twitter.com/imLindsey Klol"
+          url="https://twitter.com/dev_lindseyk"
         />
 
-        <Icon icon={<MdEmail />} url="mailto:kr.Lindsey K24@gmail.com" />
+        <Icon icon={<MdEmail />} url="mailto:lindseykdev@gmail.com" />
 
         <Icon
           icon={<BsSpotify />}
