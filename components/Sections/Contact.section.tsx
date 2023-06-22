@@ -26,7 +26,7 @@ const Contact: NextComponentType = () => {
 
         <Icon
           icon={<BsSpotify />}
-          url="https://open.spotify.com/user/31l2fev6wn2mtzclbpvzxis3x77q"
+          url="https://open.spotify.com/user/1290519664"
         />
       </div>
     </div>
